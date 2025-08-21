@@ -123,13 +123,15 @@ div bx
 
 ret
 ~~~
+
+## Output  
+<img width="1191" height="900" alt="image" src="https://github.com/user-attachments/assets/1cf90915-9a60-4a08-b3ab-418f34a19a2f" />
+
 ## And of 16 bit numbers ALP :
 ~~~
 ~~~
 ## output:
 
-## Output  
-<img width="1191" height="900" alt="image" src="https://github.com/user-attachments/assets/1cf90915-9a60-4a08-b3ab-418f34a19a2f" />
 ## Result :
  
 
