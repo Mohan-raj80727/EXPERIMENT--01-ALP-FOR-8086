@@ -100,7 +100,17 @@ ret
 <img width="960" height="893" alt="Screenshot 2025-08-21 141031" src="https://github.com/user-attachments/assets/311a1e54-de39-484f-9e46-02c83a97678e" />
 
 ## Multiplication alp 
+~~~
+org 100h
+
+mov ax,1111h
+mov bx,2222h
+mul bx
+
+ret
+~~~
  ## Output  
+<img width="963" height="906" alt="image" src="https://github.com/user-attachments/assets/7baf8212-a6fd-4371-b150-46a263efffae" />
 
 
 ## Division alp 
