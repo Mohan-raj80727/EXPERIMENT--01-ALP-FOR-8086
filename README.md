@@ -114,10 +114,18 @@ ret
 
 
 ## Division alp 
+~~~
+org 100h
+
+mov ax,3323h
+mov bx,[4434h]
+div bx
+
+ret
+~~~
 
 ## Output  
-
-
+<img width="1191" height="900" alt="image" src="https://github.com/user-attachments/assets/1cf90915-9a60-4a08-b3ab-418f34a19a2f" />
 ## Result :
  
 
