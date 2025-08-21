@@ -129,11 +129,58 @@ ret
 
 ## And of 16 bit numbers ALP :
 ~~~
+org 100h
+
+mov ax,1234h
+mov bx,5678h
+and ax,bx
+
+ret
 ~~~
 ## output:
+<img width="1187" height="918" alt="image" src="https://github.com/user-attachments/assets/76119790-8ca1-41a9-8e9c-cdd76f59eb94" />
+
+## OR of 16 bit numbers ALP :
+~~~
+org 100h
+
+mov ax,2468h
+mov bx,1357h
+or ax,bx
+
+ret
+~~~
+## output :
+<img width="1202" height="919" alt="image" src="https://github.com/user-attachments/assets/92aaa887-9e92-4d4c-aee8-3c847667717e" />
+
+## NOT of 16 bit number ALP :
+~~~
+org 100h
+
+mov ax,8765h
+not ax
+
+ret
+~~~
+## output:
+<img width="1198" height="922" alt="image" src="https://github.com/user-attachments/assets/aefa1f1d-773d-4760-92ea-8b8f587014ae" />
+
+## XOR of 16 bit number ALP :
+~~~
+org 100h
+
+MOV AX,12ABH
+MOV BX,34CDH
+XOR AX,BX
+
+ret
+~~~
+## output:
+<img width="1200" height="909" alt="image" src="https://github.com/user-attachments/assets/b68d5ad1-b943-4d41-9ed7-f4a204ca2dfc" />
+
 
 ## Result :
- 
+ The execution of ALP on fundamental arithmetic and logical operations is successfully completed.
 
 
 
